@@ -1,0 +1,7 @@
+{"menus":[{"section":"Resources","items":[
+    {"title":"Users","url":"\/admin\/users"},
+    {"title":"bid","url":"\/admin\/bid"},
+    {"title":"category","url":"\/admin\/category"},
+    {"title":"Product","url":"\/admin\/product"},
+    {"title":"Vedio","url":"\/admin\/vedio"},
+    {"title":"admin","url":"\/admin\/admin"}]}]}
